@@ -13,8 +13,8 @@ For part_2_mars_solution, pandas was leveraged to assemble the scraped data into
 
 
 ## Installation
-splinter
-bs4
-selenium
-matplotlib
-pandas
+- splinter
+- bs4
+- selenium
+- matplotlib
+- pandas
